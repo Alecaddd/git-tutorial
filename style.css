@@ -1,5 +1,9 @@
 body {
-  font-size: 20px;
-  font-weight: normal;
-  color: red;
+	font-size: 20px;
+	font-weight: normal;
+	color: red;
+}
+
+p {
+	background-color: #F00;
 }
